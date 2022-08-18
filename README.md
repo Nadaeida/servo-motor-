@@ -32,11 +32,9 @@ void loop()
 }
 About brushless motor :
 1- connecting the wires like the circuit:
-![brushless](https://user-images.githubusercontent.c
-https://user-images.githubusercontent.com/108246979/185382390-4882bbc4-469b-43dc-8571-4c5e0051599e.mp4
+![brushless](https://user-images.githubusercontent.com/108246979/185383218-28adf9c7-718e-409f-9f22-29d90033c2c9.png)
 
-om/108246979/185381363-1ddd28be-ea80-4ed2-804e-8e4971530bdc.png)
-![brushless2](https://user-images.githubusercontent.com/108246979/185381706-aa1d38ec-d8bc-4d7b-99a6-183e44c2d0c4.png)
+![brushless2](https://user-images.githubusercontent.com/108246979/185383289-9c0fd79b-8486-405b-bfa9-fc546e656cbd.png)
 
 2-step2:Run the brushless motor:
 https://user-images.githubusercontent.com/108246979/185382480-92838a7a-9625-4ee3-94b0-01157e739734.mp4
